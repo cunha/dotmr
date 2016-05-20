@@ -1,0 +1,2 @@
+[$HOME/.vim/plugins/dein.vim]
+checkout = git clone git@github.com:Shougo/dein.vim.git
