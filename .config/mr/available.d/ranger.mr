@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/ranger.git]
-checkout = vcsh clone git://github.com/cunha/dotranger.git ranger
