@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotxfiles.git]
-checkout = vcsh clone git://github.com/cunha/dotxfiles.git dotxfiles
+checkout = vcsh clone git@github.com:cunha/dotxfiles.git dotxfiles
