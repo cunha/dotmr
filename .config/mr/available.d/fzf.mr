@@ -1,0 +1,2 @@
+[$HOME/.config/zsh/fzf.git]
+checkout = git clone git@github.com:junegunn/fzf.git fzf.git
