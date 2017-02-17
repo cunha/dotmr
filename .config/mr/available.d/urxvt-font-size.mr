@@ -1,0 +1,2 @@
+[$HOME/.config/urxvt-font-size.git]
+checkout = git clone git@github.com:majutsushi/urxvt-font-size.git urxvt-font-size.git
